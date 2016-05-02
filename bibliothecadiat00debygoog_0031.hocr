@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecadiat00debygoog_0031.png"; bbox 0 0 3684 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 700 69 981">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 42 700 69 981">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 700 69 903; baseline 101.5 -1827"><span class='ocrx_word' id='word_1_1' title='bbox 58 700 67 717; x_wconf 62' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_2' title='bbox 58 752 67 761; x_wconf 70' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 60 810 69 825; x_wconf 87' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 42 866 63 903; x_wconf 60' lang='grc' dir='ltr'><strong>Γ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 720 53 981; baseline 261 -261"><span class='ocrx_word' id='word_1_5' title='bbox 42 720 45 753; x_wconf 56' lang='grc' dir='ltr'>ἶ,</span> <span class='ocrx_word' id='word_1_6' title='bbox 44 790 45 793; x_wconf 68' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 42 922 53 981; x_wconf 54' lang='lat' dir='ltr'>fle,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
